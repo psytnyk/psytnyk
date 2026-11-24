@@ -27,3 +27,6 @@ Interested in game development, web & app development and UI/UX design
 - **Web:** HTML5, CSS3
 - **Development tools:** Git, GitHub, Visual Studio, VS Code
 - **Design tools:** Figma, Canva
+
+## 📈 GitHub stats
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psytnyk&layout=compact&theme=tokyonight)
